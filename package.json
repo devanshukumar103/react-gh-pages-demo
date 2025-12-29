@@ -2,7 +2,7 @@
   "name": "react-gh-pages-demo",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/devanshukumar103/react-gh-pages-demo.git",
+  "homepage": "https://devanshukumar103.github.io/react-gh-pages-demo",
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.9.1",
