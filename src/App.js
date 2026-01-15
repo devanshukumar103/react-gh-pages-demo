@@ -5,7 +5,7 @@ function App() {
   return (
     <div style={{ textAlign: "center", marginTop: "50px" }}>
       <h1>🚀 Testing react page </h1>
-      <p>CI/CD using GitHub Pages</p>
+      <p>CI/CD using GitHub Actions</p>
     </div>
   );
 }
